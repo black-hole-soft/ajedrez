@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajedrez", "Ajedrez\Ajedrez.csproj", "{6241C7C7-2427-4319-8F54-03F7A11F0702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6241C7C7-2427-4319-8F54-03F7A11F0702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6241C7C7-2427-4319-8F54-03F7A11F0702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6241C7C7-2427-4319-8F54-03F7A11F0702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6241C7C7-2427-4319-8F54-03F7A11F0702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3308EEF-33A7-4A65-ACAC-C2231AED8251}
+	EndGlobalSection
+EndGlobal
